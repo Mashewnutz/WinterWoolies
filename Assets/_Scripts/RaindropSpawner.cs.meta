@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: a0eea02cdb308400c83ff3c2a64a0ddf
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - rainDropPrefab: {instanceID: 0}
+  - rainDropPositions: {fileID: 100312, guid: c743b8a091e6a49f7a9d4b1852f05c91, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
